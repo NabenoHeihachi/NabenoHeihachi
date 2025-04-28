@@ -6,7 +6,6 @@
 
 ## Qualification/Activities 🏅
 - 応用情報技術者試験 (Applied Information Technology Engineer Examination) 2023/6
-- ICPC国内予選参加
 - Paiza S
 
 ## Skills 💻
